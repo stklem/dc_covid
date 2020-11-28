@@ -1,1 +1,1 @@
-# dc_covid
+# DC COVID
